@@ -1,0 +1,28 @@
+{
+  "name": "@mobx-app/intl",
+  "version": "0.0.1",
+  "description": "Internationalization helpers for mobx-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobx-app/intl.git"
+  },
+  "keywords": [
+    "react",
+    "mobx",
+    "mobx-app",
+    "intl",
+    "i18n",
+    "l10n",
+    "translation"
+  ],
+  "author": "Artur Smirnov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mobx-app/intl/issues"
+  },
+  "homepage": "https://github.com/mobx-app/intl#readme"
+}
